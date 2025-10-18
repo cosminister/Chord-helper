@@ -49,6 +49,7 @@
 .row input {
     flex: 1;
     border: none;
+    width: 50%;
     outline:none;
     background: transparent;
     padding: 10px;
@@ -89,6 +90,23 @@
 }
 
 
+
+ol li {
+    list-style-type: none;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+
+.note-container {
+    
+    width: 30%;
+    min-width: 30%;
+    margin: 1rem auto;
+    border-width: 2px;
+    border-radius: 20px;
+    background: lightblue;
+}
 
 
 
